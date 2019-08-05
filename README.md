@@ -1,1 +1,1 @@
-# testllink1.9.19-搭建详细图文教程
+# centos6.5 testllink1.9.19-搭建教程
